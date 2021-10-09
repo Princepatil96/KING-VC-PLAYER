@@ -535,14 +535,14 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
-                InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
+                InlineKeyboardButton("⚙️ ᴍᴇɴᴜ ", callback_data="menu"),
+                InlineKeyboardButton("🙅🏻‍♂️  ᴄʟᴏsᴇ", callback_data="cls"),
             ],
             [
                 InlineKeyboardButton(
-                    "☑️ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Superior_Bots"
+                    "🥰 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TgW0RLD"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/Superior_Support"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/TG_CHATHUB"),
             ],
         ]
     )
