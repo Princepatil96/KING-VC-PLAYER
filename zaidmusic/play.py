@@ -540,9 +540,9 @@ async def ytplay(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "🥰 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TgW0RLD"
+                    "🥰 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/KING_PRINCE_SUPPORT"
                 ),
-                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/TG_CHATHUB"),
+                InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/STUDY_FLOWER_QUIZ_GROUP"),
             ],
         ]
     )
