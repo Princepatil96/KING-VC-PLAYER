@@ -44,9 +44,9 @@ async def alive(client: Client, message: Message):
         photo=f"https://telegra.ph/file/95e785dea2717adf59de6.png",
         caption=f"""**➮𝐳 ʜɪɪ ɪ ᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
-➮ **Zαιԃ Sყʂƚҽɱ Wσɾƙιɳɠ Fιɳҽ**
+➮ **ᴍʀ ᴋɪɴɢ sʏsᴛᴇᴍ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ**
 
-➮ **ᴢᴀɪᴅ ᴠᴇʀꜱɪᴏɴ : 5.0 Lҽƚҽʂƚ**
+➮ **ᴍʀ ᴋɪɴɢ ᴠᴇʀꜱɪᴏɴ : 5.0 Lҽƚҽʂƚ**
 
 ➮ **ᴍʏ ᴏᴡɴᴇʀ : [{OWNER_NAME}](https://t.me/{OWNER_NAME})**
 
@@ -57,10 +57,10 @@ async def alive(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/SUPERIOR_SUPPORT"
+                        "💫 ɢʀᴏᴜᴘ", url=f"https://t.me/TG_CHATHUB"
                     ),
                     InlineKeyboardButton(
-                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/SUPERIOR_BOTS"
+                        "ᴄʜᴀɴɴᴇʟ ☑️", url=f"https://t.me/TgW0RLD"
                     )
                 ]
             ]
